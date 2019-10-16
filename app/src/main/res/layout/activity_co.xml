@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CoActivity">
+
+    <TextView
+        android:id="@+id/textView66"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="13dp"
+        android:layout_weight="0"
+        android:text="Co-curricular"
+        android:textColor="#4CAF50"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/textView67"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="0"
+        android:text="15 Sports Complexes with Swimming Pools"
+        android:textColor="#4CAF50"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView68"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="0"
+        android:text="BCCI approved Cricket Ground"
+        android:textColor="#4CAF50"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="0"
+        android:text="40+ Socities"
+        android:textColor="#4CAF50"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="0"
+        android:text="Central Indoor Stadium"
+        android:textColor="#4CAF50"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView71"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="0"
+        android:text="@string/facility_for_hockey_astroturf_kabaddi_football_volleyball_kho_kho_throwball_basketball_rugby_handball_netball_and_track_field_400_m"
+        android:textColor="#4CAF50"
+        android:textSize="24sp" />
+</LinearLayout>

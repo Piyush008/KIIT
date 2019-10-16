@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KIITINFO</string>
+    <string name="title_activity_main2">KIIT INFO</string>
+    <string name="film_media"><![CDATA[Film & Media]]></string>
+    <string name="law_management"><![CDATA[Law & Management]]></string>
+    <string name="science_engineering"><![CDATA[Science & Engineering]]></string>
+    <string name="electronics_electrical_engineering"><![CDATA[Electronics & Electrical Engineering]]></string>
+    <string name="electronics_tele_communication_engineering"><![CDATA[Electronics & Tele-Communication Engineering]]></string>
+    <string name="facility_for_hockey_astroturf_kabaddi_football_volleyball_kho_kho_throwball_basketball_rugby_handball_netball_and_track_field_400_m"><![CDATA[facility for Hockey (astroturf), Kabaddi, Football, Volleyball, Kho-Kho, Throwball, Basketball, Rugby, Handball, Netball and Track & Field (400 m)]]></string>
+</resources>
